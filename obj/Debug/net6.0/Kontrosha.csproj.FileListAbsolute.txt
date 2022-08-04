@@ -1,0 +1,15 @@
+D:\work\Examles\Kontrosha\bin\Debug\net6.0\Kontrosha.exe
+D:\work\Examles\Kontrosha\bin\Debug\net6.0\Kontrosha.deps.json
+D:\work\Examles\Kontrosha\bin\Debug\net6.0\Kontrosha.runtimeconfig.json
+D:\work\Examles\Kontrosha\bin\Debug\net6.0\Kontrosha.dll
+D:\work\Examles\Kontrosha\bin\Debug\net6.0\Kontrosha.pdb
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\Kontrosha.csproj.AssemblyReference.cache
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\Kontrosha.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\Kontrosha.AssemblyInfoInputs.cache
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\Kontrosha.AssemblyInfo.cs
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\Kontrosha.csproj.CoreCompileInputs.cache
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\Kontrosha.dll
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\refint\Kontrosha.dll
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\Kontrosha.pdb
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\Kontrosha.genruntimeconfig.cache
+D:\work\Examles\Kontrosha\obj\Debug\net6.0\ref\Kontrosha.dll
